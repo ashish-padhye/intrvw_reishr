@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmfoodchain>
+    <branch>
+        <location>"Pune"</location>
+        <totalcollection>170.00</totalcollection>
+        <locationid>PUN-1234-456</locationid>
+    </branch>
+    <orders>
+        <orderdetail>
+            <billamount>90.00</billamount>
+            <orderid>1</orderid>
+        </orderdetail>
+        <orderdetail>
+            <orderid>2</orderid>
+            <billamount>70.00</billamount>
+        </orderdetail>
+    </orders>
+</cmfoodchain>

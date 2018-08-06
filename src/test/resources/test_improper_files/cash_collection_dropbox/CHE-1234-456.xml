@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmfoodchain>
+    <branch>
+        <location>"Chennai"</location>
+        <totalcollection>150.00</totalcollection>
+        <locationid>CHE-1234-456
+    </branch>
+    <orders>
+        <orderdetail>
+            <orderid>1</orderid>
+            <billamount>80.00</billamount>
+        </orderdetail>
+        <orderdetail>
+            <orderid>2</orderid>
+            <billamount>70.00</billamount>
+        </orderdetail>
+    </orders>
+</cmfoodchain>
