@@ -38,9 +38,9 @@ Section 3
 
 Sonar lint / EclEmma scan Snapshot 
 
-Final Output Snapshot 
+Final Output Snapshot https://github.com/ashish-padhye/intrvw_reishr/blob/master/src/main/resources/images/Final_Output.jpg
 
-Junit Coverage Snapshot
+Junit Coverage Snapshot https://github.com/ashish-padhye/intrvw_reishr/blob/master/src/main/resources/images/test_coverage.jpg
 
 
 Note: (You can link directly to the raw version of an
